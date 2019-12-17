@@ -1,0 +1,22 @@
+{
+  "name": "commandline_dictionary",
+  "version": "1.0.0",
+  "description": "commandline_dictionary for automate.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mandasreekanth/commandline_dictionary.git"
+  },
+  "author": "mandasreekanth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mandasreekanth/commandline_dictionary/issues"
+  },
+  "homepage": "https://github.com/mandasreekanth/commandline_dictionary#readme",
+   "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
