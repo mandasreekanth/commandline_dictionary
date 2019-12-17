@@ -101,6 +101,7 @@ switch(args[2]) {
             .catch(err=> {
                 console.log("Sorry Word not found in dictionary")
             })
+            
         break;
     case 'syn':
         apiReq('relatedWords',args[3])
