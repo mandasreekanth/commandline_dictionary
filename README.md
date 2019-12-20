@@ -1,10 +1,7 @@
 # commandline_dictionary
-commandline_dictionary for automate.io
 
 
   use node dict.js to test the conditions 
- 
- please feel free to reach out if you have any questions 
  
 It's a command line tool written in NodeJS which gives output to definitions, synonyms, antonyms and examples to a word. Also there is a command to play game with words where user has to guess word, if failed can ask for hint. The dictionary feature is implemented by using api calls to Fourty Two Words
 
